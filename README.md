@@ -46,3 +46,7 @@ SensorDataParser(empfangenerString).gps.height
 
 SensorDataParser(empfangenerString).pressure
 ```
+
+## LICENSE
+
+MIT License
