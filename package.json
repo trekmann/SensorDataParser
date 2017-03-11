@@ -10,6 +10,7 @@
     "parser",
     "SensorData"
   ],
+  "git": "https://github.com/trekmann/SensorDataParser.git",
   "author": "trekmann",
   "license": "MIT",
   "devDependencies": {
