@@ -1,7 +1,7 @@
 {
   "name": "sensordaten_parser",
   "version": "1.0.1",
-  "description": "Parse the SensorData from the SensorData_App",
+  "description": "Parse the SensorData from the SensorData App",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
